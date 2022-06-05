@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chirtoaca94
-- 👀 I’m interested in SQl and Python
+- 👀 I’m interested in SQL and Python
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
